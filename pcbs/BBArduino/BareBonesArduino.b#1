@@ -150,8 +150,7 @@
 <text x="38.1" y="35.56" size="0.8128" layer="21" font="vector">A5</text>
 <text x="36.83" y="33.02" size="0.8128" layer="21" font="vector">VCC</text>
 <text x="1.27" y="41.91" size="0.8128" layer="21" font="vector">3.3+5V</text>
-<text x="10.16" y="1.27" size="1.778" layer="1" font="vector" rot="R90">Carrot Pants 
-Studios</text>
+<text x="11.43" y="1.27" size="1.27" layer="21" font="vector" rot="R90">Carrot Pants Studios</text>
 </plain>
 <libraries>
 <library name="SparkFun-Capacitors">
@@ -675,7 +674,7 @@ IC needs to have legs bent before insertion.</description>
 <wire x1="16.51" y1="33.02" x2="19.05" y2="33.02" width="0.254" layer="1"/>
 <wire x1="8.89" y1="37.37" x2="8.89" y2="35.56" width="0.254" layer="1"/>
 <wire x1="26.67" y1="27.94" x2="21.59" y2="29.21" width="0.254" layer="16"/>
-<via x="21.59" y="29.21" extent="1-16" drill="0.6"/>
+<via x="21.59" y="29.21" extent="1-16" drill="0.9"/>
 <wire x1="21.59" y1="29.21" x2="21.59" y2="33.02" width="0.254" layer="1"/>
 <wire x1="21.59" y1="33.02" x2="19.05" y2="33.02" width="0.254" layer="1"/>
 <wire x1="8.89" y1="35.56" x2="6.35" y2="33.02" width="0.254" layer="16"/>
@@ -904,10 +903,4 @@ IC needs to have legs bent before insertion.</description>
 </errors>
 </board>
 </drawing>
-<compatibility>
-<note version="6.3" minversion="6.2.2" severity="warning">
-Since Version 6.2.2 text objects can contain more than one line,
-which will not be processed correctly with this version.
-</note>
-</compatibility>
 </eagle>
