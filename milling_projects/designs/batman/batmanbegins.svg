@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   viewBox="0 0 86.666664 34.666668"
+   height="34.666668"
+   width="86.666664"
+   xml:space="preserve"
+   version="1.1"
+   id="svg2"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath18"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path20"
+         d="M 0,0 0,10 10,10 10,0 0,0" /></clipPath></defs><g
+     transform="matrix(1.3333333,0,0,-1.3333333,0,34.666667)"
+     id="g10"><g
+       transform="scale(0.1)"
+       id="g12"><g
+         id="g14"><g
+           clip-path="url(#clipPath18)"
+           id="g16" /></g><g
+         transform="scale(650,260)"
+         id="g22"><image
+           id="image24"
+           xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEEAAAAaCAYAAADovjFxAAAABHNCSVQICAgIfAhkiAAAAolJREFUWIXtl7Fu2lAUhv9EXe08gB2plbrcGylSJzsKbZbiSq26AN0DkaiyAAPKUmWBspd2qBSp7UJkpEKGIpBqOqQiEqZzMQ+A/QA4D+AOVQgEsN0YchOVb7v3Hvn++uVz7jkrjuM4+M9ZZS3gNrA0AcA9o2ugkM+ho3fm+uHTVgviujjz3B7Y4Nf4metp7IRCsExrbhoFUUAqncEq3aA4Lpdx2mohrITndkFH113P3+ZzruurmH1zbgYQSlBSVfw8O0P0VewyHcR1ER+PjlBSVQiiEPii98V3rueWaUJvXxrV1DTX+GqlElgTx3N4c3iIWqMBeUse7k/UBHlLRq3eQCQWDXShZVo4yGZdY/ZfJ/Hw/gM82tzEuX0+M676tYIPxWIgPYQS1OoNxPcSE2crbk/kQTaLk0o10OWSLCESjYFQCrpBh/vT8nu0jph9E4Zh4EdTC6yBUIJjtTyz5riaAAD7ySSaWjOQCJYIooBaveFadD1NsAc2dh6HXH/X20xJVcfyfxqefQK/xmM3PplHdwFJljwNAHw2S2FFCSyIBU/D/nT7MmG0oN0lCPWne9k2Y2kCAJ8mmH1zbC2IAiRZAsdzCxF1HSRZAqFkbM8yzRnR43g+kf+C3tZh2zZ6hoFfHX2uQxmhBJIsgxAKQRRBKfUcuPwyVxOuYg9sNDUNJ9XKtQwRRAG78QTCiuI6kQZloSaMord1FPI59IyeZyzHc0ilM1P7/EVwYyZc4DWPePX5i+DGTQCAL58+o5DPT+yzMABg9ETG9xITozorAwBGfwLwt2i+fPF8OE5/q9eZdabMmiV+jUcqnQEARGJRtq25w5gn29tO93eXqQZm6XCB9l2D8oztlPoH1Of1vE08Ow0AAAAASUVORK5CYII="
+           transform="matrix(1,0,0,-1,0,1)"
+           preserveAspectRatio="none"
+           height="1"
+           width="1" /></g></g></g></svg>
