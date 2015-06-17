@@ -1,0 +1,130 @@
+{
+  "snapOnDrag" : true,
+  "millVersion" : 2,
+  "version" : 4,
+  "fixturing" : {
+    "spoilboard" : {
+      "stockRegistration" : 0
+    },
+    "bracket" : {
+      "stockRegistration" : 1
+    }
+  },
+  "plans" : [
+    "E293F3E1-8684-4AB9-A181-87DB70FEA619",
+    "BE62906A-B0C1-489A-9D08-4DDFAA51147F"
+  ],
+  "stock" : {
+    "height" : 50.749,
+    "depth" : 1.65,
+    "flipped" : false,
+    "laminate" : "60B937DD-95D8-46B0-AA9E-87D16EEFE219",
+    "offset" : {
+      "y" : 9.596915758071216,
+      "b" : 0,
+      "z" : 0,
+      "x" : 6.038446123536282,
+      "a" : 0,
+      "c" : 0
+    },
+    "width" : 98.40000000000001,
+    "name" : "(unknown)",
+    "zrotation" : 0.002028792002727222
+  },
+  "displayUnits" : "mm",
+  "showDimensions" : true,
+  "otherplanVersionName" : "release-build",
+  "currentJobUUID" : null,
+  "tools" : [
+    {
+      "group" : "Engraving",
+      "conductive" : "yes",
+      "flutes" : 1,
+      "name" : "Engraving Tool",
+      "profile" : [
+        [
+          3.175,
+          38.1,
+          0,
+          0
+        ],
+        [
+          3.175,
+          14.3,
+          0,
+          -1
+        ],
+        [
+          3.175,
+          1.89,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "uuid" : "B125EF6E-BF97-4B22-8A40-5A58543E1631"
+    },
+    {
+      "group" : "Engraving",
+      "conductive" : "yes",
+      "flutes" : 1,
+      "name" : "Engraving Tool",
+      "profile" : [
+        [
+          3.175,
+          38.1,
+          0,
+          0
+        ],
+        [
+          3.175,
+          14.3,
+          0,
+          -1
+        ],
+        [
+          3.175,
+          1.89,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "uuid" : "B125EF6E-BF97-4B22-8A40-5A58543E1631"
+    }
+  ],
+  "showMotionPlan" : true,
+  "otherplanVersion" : "0.14.3",
+  "stepSize" : 1,
+  "laminates" : [
+    {
+      "uuid" : "60B937DD-95D8-46B0-AA9E-87D16EEFE219",
+      "group" : "Metal",
+      "name" : "Anodized Aluminum",
+      "layers" : [
+        {
+          "fixed" : 0.1,
+          "material" : "anodizedsurface"
+        },
+        {
+          "float" : 1.45,
+          "material" : "aluminumstock"
+        },
+        {
+          "fixed" : 0.1,
+          "material" : "anodizedsurface"
+        }
+      ]
+    }
+  ]
+}
