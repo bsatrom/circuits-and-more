@@ -9,26 +9,24 @@
     "bracket" : null
   },
   "plans" : [
-    "E293F3E1-8684-4AB9-A181-87DB70FEA619",
-    "6CF796EC-8476-40D6-A9C1-A3D44C552732",
-    "D6750AAD-FD41-4C13-AEDE-0A99CF11E075"
+    "86667693-9BA1-455E-A5EE-321D1548008F"
   ],
   "stock" : {
-    "height" : 50.749,
-    "depth" : 1.65,
+    "height" : 49.834,
+    "depth" : 1.244,
     "flipped" : false,
     "laminate" : "60B937DD-95D8-46B0-AA9E-87D16EEFE219",
     "offset" : {
-      "y" : 0,
+      "y" : -0.0001243157135040196,
       "b" : 0,
       "z" : 0,
-      "x" : 0,
+      "x" : -0.0009369648778716488,
       "a" : 0,
       "c" : 0
     },
-    "width" : 98.40000000000001,
+    "width" : 28.828,
     "name" : "(unknown)",
-    "zrotation" : 0
+    "zrotation" : 0.001337633949235409
   },
   "displayUnits" : "mm",
   "showDimensions" : true,
@@ -67,75 +65,9 @@
         ]
       ],
       "uuid" : "B125EF6E-BF97-4B22-8A40-5A58543E1631"
-    },
-    {
-      "group" : "Engraving",
-      "conductive" : "yes",
-      "flutes" : 1,
-      "name" : "Engraving Tool",
-      "profile" : [
-        [
-          3.175,
-          38.1,
-          0,
-          0
-        ],
-        [
-          3.175,
-          14.3,
-          0,
-          -1
-        ],
-        [
-          3.175,
-          1.89,
-          0,
-          1
-        ],
-        [
-          0,
-          0,
-          0,
-          1
-        ]
-      ],
-      "uuid" : "B125EF6E-BF97-4B22-8A40-5A58543E1631"
-    },
-    {
-      "group" : "Engraving",
-      "conductive" : "yes",
-      "flutes" : 1,
-      "name" : "Engraving Tool",
-      "profile" : [
-        [
-          3.175,
-          38.1,
-          0,
-          0
-        ],
-        [
-          3.175,
-          14.3,
-          0,
-          -1
-        ],
-        [
-          3.175,
-          1.89,
-          0,
-          1
-        ],
-        [
-          0,
-          0,
-          0,
-          1
-        ]
-      ],
-      "uuid" : "B125EF6E-BF97-4B22-8A40-5A58543E1631"
     }
   ],
-  "showMotionPlan" : false,
+  "showMotionPlan" : true,
   "otherplanVersion" : "0.14.3",
   "stepSize" : 1,
   "laminates" : [

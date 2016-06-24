@@ -1,0 +1,86 @@
+{
+  "snapOnDrag" : true,
+  "millVersion" : 2,
+  "version" : 4,
+  "fixturing" : {
+    "spoilboard" : {
+      "stockRegistration" : 0
+    },
+    "bracket" : null
+  },
+  "plans" : [
+    "DCF25329-6868-4026-B454-D6C4DC11C248"
+  ],
+  "stock" : {
+    "height" : 101.65,
+    "depth" : 6.502,
+    "flipped" : false,
+    "laminate" : "E36CB40A-4943-4474-B3FC-301B7227D776",
+    "offset" : {
+      "y" : 9.757999999999999,
+      "b" : 0,
+      "z" : 0,
+      "x" : 5.779,
+      "a" : 0,
+      "c" : 0
+    },
+    "width" : 126.364,
+    "name" : "(unknown)",
+    "zrotation" : 0
+  },
+  "displayUnits" : "mm",
+  "showDimensions" : true,
+  "otherplanVersionName" : "release-build",
+  "currentJobUUID" : null,
+  "tools" : [
+    {
+      "group" : "Endmill",
+      "conductive" : "yes",
+      "flutes" : 4,
+      "name" : "1\/8in Flat End Mill",
+      "profile" : [
+        [
+          3.175,
+          38.57,
+          0,
+          0
+        ],
+        [
+          3.175,
+          16,
+          0,
+          -1
+        ],
+        [
+          3.175,
+          13,
+          0,
+          1
+        ],
+        [
+          3.175,
+          0,
+          0,
+          1
+        ]
+      ],
+      "uuid" : "B5D88C4F-4FA2-4D0A-B6C2-1485F3CAB73B"
+    }
+  ],
+  "showMotionPlan" : true,
+  "otherplanVersion" : "0.14.3",
+  "stepSize" : 1,
+  "laminates" : [
+    {
+      "uuid" : "E36CB40A-4943-4474-B3FC-301B7227D776",
+      "group" : "Metal",
+      "name" : "Brass Alloy 360",
+      "layers" : [
+        {
+          "float" : 6.35,
+          "material" : "brass"
+        }
+      ]
+    }
+  ]
+}

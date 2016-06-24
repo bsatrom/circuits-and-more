@@ -9,98 +9,30 @@
     "bracket" : null
   },
   "plans" : [
-    "E293F3E1-8684-4AB9-A181-87DB70FEA619",
-    "6CF796EC-8476-40D6-A9C1-A3D44C552732",
-    "D6750AAD-FD41-4C13-AEDE-0A99CF11E075"
+    "C9A6E69D-716D-415A-8917-1D9A4BBBD5A3"
   ],
   "stock" : {
-    "height" : 50.749,
-    "depth" : 1.65,
+    "height" : 28.803,
+    "depth" : 1.219,
     "flipped" : false,
     "laminate" : "60B937DD-95D8-46B0-AA9E-87D16EEFE219",
     "offset" : {
-      "y" : 0,
+      "y" : -8.424192878453418e-05,
       "b" : 0,
       "z" : 0,
-      "x" : 0,
+      "x" : -0.0005538764637178506,
       "a" : 0,
       "c" : 0
     },
-    "width" : 98.40000000000001,
+    "width" : 49.631,
     "name" : "(unknown)",
-    "zrotation" : 0
+    "zrotation" : 0.001194007940789566
   },
   "displayUnits" : "mm",
   "showDimensions" : true,
   "otherplanVersionName" : "release-build",
   "currentJobUUID" : null,
   "tools" : [
-    {
-      "group" : "Engraving",
-      "conductive" : "yes",
-      "flutes" : 1,
-      "name" : "Engraving Tool",
-      "profile" : [
-        [
-          3.175,
-          38.1,
-          0,
-          0
-        ],
-        [
-          3.175,
-          14.3,
-          0,
-          -1
-        ],
-        [
-          3.175,
-          1.89,
-          0,
-          1
-        ],
-        [
-          0,
-          0,
-          0,
-          1
-        ]
-      ],
-      "uuid" : "B125EF6E-BF97-4B22-8A40-5A58543E1631"
-    },
-    {
-      "group" : "Engraving",
-      "conductive" : "yes",
-      "flutes" : 1,
-      "name" : "Engraving Tool",
-      "profile" : [
-        [
-          3.175,
-          38.1,
-          0,
-          0
-        ],
-        [
-          3.175,
-          14.3,
-          0,
-          -1
-        ],
-        [
-          3.175,
-          1.89,
-          0,
-          1
-        ],
-        [
-          0,
-          0,
-          0,
-          1
-        ]
-      ],
-      "uuid" : "B125EF6E-BF97-4B22-8A40-5A58543E1631"
-    },
     {
       "group" : "Engraving",
       "conductive" : "yes",

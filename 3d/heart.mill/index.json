@@ -1,0 +1,123 @@
+{
+  "snapOnDrag" : true,
+  "millVersion" : 1,
+  "version" : 4,
+  "fixturing" : {
+    "spoilboard" : null,
+    "bracket" : null
+  },
+  "plans" : [
+    "2AD14483-B3C9-4445-9B7C-6C2CC79D712B",
+    "9ECE75A7-0FD0-4DF7-877A-3D0D194BF253"
+  ],
+  "stock" : {
+    "height" : 76.2,
+    "depth" : 12.7,
+    "flipped" : false,
+    "laminate" : "7B53B59A-2D93-49DC-A13D-101F4F09FA71",
+    "offset" : {
+      "y" : 0,
+      "b" : 0,
+      "z" : 0,
+      "x" : 0,
+      "a" : 0,
+      "c" : 0
+    },
+    "width" : 76.2,
+    "name" : "(unknown)",
+    "zrotation" : 0
+  },
+  "displayUnits" : "mm",
+  "showDimensions" : true,
+  "otherplanVersionName" : "release-build",
+  "currentJobUUID" : null,
+  "tools" : [
+    {
+      "group" : "Endmill",
+      "conductive" : "yes",
+      "flutes" : 4,
+      "name" : "1\/8in Flat End Mill",
+      "profile" : [
+        [
+          3.175,
+          38.57,
+          0,
+          0
+        ],
+        [
+          3.175,
+          16,
+          0,
+          -1
+        ],
+        [
+          3.175,
+          13,
+          0,
+          1
+        ],
+        [
+          3.175,
+          0,
+          0,
+          1
+        ]
+      ],
+      "uuid" : "B5D88C4F-4FA2-4D0A-B6C2-1485F3CAB73B"
+    },
+    {
+      "group" : "Ballmill",
+      "conductive" : "yes",
+      "flutes" : 2,
+      "name" : "1\/16in Ball Mill",
+      "profile" : [
+        [
+          3.175,
+          36.5,
+          0,
+          0
+        ],
+        [
+          3.175,
+          9.5,
+          0,
+          -1
+        ],
+        [
+          1.5875,
+          4.8,
+          0,
+          1
+        ],
+        [
+          1.5875,
+          0.79375,
+          -0.4142,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "uuid" : "2D7982C6-3F93-494A-A58D-1C38BA86F845"
+    }
+  ],
+  "showMotionPlan" : true,
+  "otherplanVersion" : "0.14.3",
+  "stepSize" : 1,
+  "laminates" : [
+    {
+      "uuid" : "7B53B59A-2D93-49DC-A13D-101F4F09FA71",
+      "group" : "Machining Wax",
+      "name" : "Machining Wax (Purple)",
+      "layers" : [
+        {
+          "material" : "purplewax"
+        }
+      ]
+    }
+  ]
+}

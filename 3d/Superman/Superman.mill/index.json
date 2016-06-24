@@ -9,26 +9,26 @@
     "bracket" : null
   },
   "plans" : [
-    "E293F3E1-8684-4AB9-A181-87DB70FEA619",
-    "6CF796EC-8476-40D6-A9C1-A3D44C552732",
-    "D6750AAD-FD41-4C13-AEDE-0A99CF11E075"
+    "B14108F1-2649-4961-A3C9-206A78D6DDCE",
+    "C693B047-2CAC-41B1-9933-380DA0851C6E",
+    "B7821853-B5A3-4F2A-B160-40DDDEDAB32A"
   ],
   "stock" : {
-    "height" : 50.749,
-    "depth" : 1.65,
+    "height" : 102.006,
+    "depth" : 3.454,
     "flipped" : false,
-    "laminate" : "60B937DD-95D8-46B0-AA9E-87D16EEFE219",
+    "laminate" : "F9A0AB73-F084-4C4D-9D1B-90450853959F",
     "offset" : {
-      "y" : 0,
+      "y" : -8.424192878453418e-05,
       "b" : 0,
       "z" : 0,
-      "x" : 0,
+      "x" : -0.0005538764637178506,
       "a" : 0,
       "c" : 0
     },
-    "width" : 98.40000000000001,
+    "width" : 127,
     "name" : "(unknown)",
-    "zrotation" : 0
+    "zrotation" : 0.001194007940789566
   },
   "displayUnits" : "mm",
   "showDimensions" : true,
@@ -36,125 +36,116 @@
   "currentJobUUID" : null,
   "tools" : [
     {
-      "group" : "Engraving",
+      "group" : "Endmill",
       "conductive" : "yes",
-      "flutes" : 1,
-      "name" : "Engraving Tool",
+      "flutes" : 4,
+      "name" : "1\/8in Flat End Mill",
       "profile" : [
         [
           3.175,
-          38.1,
+          38.57,
           0,
           0
         ],
         [
           3.175,
-          14.3,
+          16,
           0,
           -1
         ],
         [
           3.175,
-          1.89,
+          13,
           0,
           1
         ],
         [
-          0,
+          3.175,
           0,
           0,
           1
         ]
       ],
-      "uuid" : "B125EF6E-BF97-4B22-8A40-5A58543E1631"
+      "uuid" : "B5D88C4F-4FA2-4D0A-B6C2-1485F3CAB73B"
     },
     {
-      "group" : "Engraving",
+      "group" : "Endmill",
       "conductive" : "yes",
-      "flutes" : 1,
-      "name" : "Engraving Tool",
+      "flutes" : 2,
+      "name" : "1\/16in Flat End Mill",
       "profile" : [
         [
           3.175,
-          38.1,
+          36.5,
           0,
           0
         ],
         [
           3.175,
-          14.3,
+          9.5,
           0,
           -1
         ],
         [
+          1.5875,
           3.175,
-          1.89,
           0,
           1
         ],
         [
-          0,
+          1.5875,
           0,
           0,
           1
         ]
       ],
-      "uuid" : "B125EF6E-BF97-4B22-8A40-5A58543E1631"
+      "uuid" : "3FE64A6F-BFBC-4E48-8D48-9D7195783FDC"
     },
     {
-      "group" : "Engraving",
+      "group" : "Endmill",
       "conductive" : "yes",
-      "flutes" : 1,
-      "name" : "Engraving Tool",
+      "flutes" : 2,
+      "name" : "1\/16in Flat End Mill",
       "profile" : [
         [
           3.175,
-          38.1,
+          36.5,
           0,
           0
         ],
         [
           3.175,
-          14.3,
+          9.5,
           0,
           -1
         ],
         [
+          1.5875,
           3.175,
-          1.89,
           0,
           1
         ],
         [
-          0,
+          1.5875,
           0,
           0,
           1
         ]
       ],
-      "uuid" : "B125EF6E-BF97-4B22-8A40-5A58543E1631"
+      "uuid" : "3FE64A6F-BFBC-4E48-8D48-9D7195783FDC"
     }
   ],
-  "showMotionPlan" : false,
+  "showMotionPlan" : true,
   "otherplanVersion" : "0.14.3",
   "stepSize" : 1,
   "laminates" : [
     {
-      "uuid" : "60B937DD-95D8-46B0-AA9E-87D16EEFE219",
-      "group" : "Metal",
-      "name" : "Anodized Aluminum",
+      "uuid" : "F9A0AB73-F084-4C4D-9D1B-90450853959F",
+      "group" : "Misc Soft",
+      "name" : "High Density Polyethylene",
       "layers" : [
         {
-          "fixed" : 0.1,
-          "material" : "anodizedsurface"
-        },
-        {
-          "float" : 1.45,
-          "material" : "aluminumstock"
-        },
-        {
-          "fixed" : 0.1,
-          "material" : "anodizedsurface"
+          "material" : "hdpe"
         }
       ]
     }

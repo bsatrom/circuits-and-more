@@ -1,0 +1,131 @@
+{
+  "snapOnDrag" : true,
+  "millVersion" : 2,
+  "version" : 4,
+  "fixturing" : {
+    "spoilboard" : {
+      "stockRegistration" : 0
+    },
+    "bracket" : null
+  },
+  "plans" : [
+    "B3EB5DF8-7B67-4564-8C41-9F671817C95F",
+    "C0CE8256-9F4C-41DE-A7F5-FD9A242EB197"
+  ],
+  "stock" : {
+    "height" : 76.2,
+    "depth" : 12.7,
+    "flipped" : false,
+    "laminate" : "7B53B59A-2D93-49DC-A13D-101F4F09FA71",
+    "offset" : {
+      "y" : 9.573999999999998,
+      "b" : 0,
+      "z" : 0,
+      "x" : 5.903,
+      "a" : 0,
+      "c" : 0
+    },
+    "width" : 76.2,
+    "name" : "(unknown)",
+    "zrotation" : 0
+  },
+  "displayUnits" : "mm",
+  "showDimensions" : true,
+  "otherplanVersionName" : "release-build",
+  "currentJobUUID" : null,
+  "tools" : [
+    {
+      "group" : "Ballmill",
+      "conductive" : "yes",
+      "flutes" : 2,
+      "name" : "1\/8in Ball Mill",
+      "profile" : [
+        [
+          3.175,
+          36.5,
+          0,
+          0
+        ],
+        [
+          3.175,
+          16,
+          0,
+          -1
+        ],
+        [
+          3.175,
+          13,
+          0,
+          1
+        ],
+        [
+          3.175,
+          1.5875,
+          -0.4142,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "uuid" : "B15DB900-5F2D-4EFA-8B15-6D4960BC70A2"
+    },
+    {
+      "group" : "Ballmill",
+      "conductive" : "yes",
+      "flutes" : 2,
+      "name" : "1\/16in Ball Mill",
+      "profile" : [
+        [
+          3.175,
+          36.5,
+          0,
+          0
+        ],
+        [
+          3.175,
+          9.5,
+          0,
+          -1
+        ],
+        [
+          1.5875,
+          4.8,
+          0,
+          1
+        ],
+        [
+          1.5875,
+          0.79375,
+          -0.4142,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "uuid" : "2D7982C6-3F93-494A-A58D-1C38BA86F845"
+    }
+  ],
+  "showMotionPlan" : true,
+  "otherplanVersion" : "0.14.3",
+  "stepSize" : 1,
+  "laminates" : [
+    {
+      "uuid" : "7B53B59A-2D93-49DC-A13D-101F4F09FA71",
+      "group" : "Machining Wax",
+      "name" : "Machining Wax (Purple)",
+      "layers" : [
+        {
+          "material" : "purplewax"
+        }
+      ]
+    }
+  ]
+}

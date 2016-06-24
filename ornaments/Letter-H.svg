@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Letter-H.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.8182513"
+     inkscape:cx="318.74237"
+     inkscape:cy="696.92934"
+     inkscape:document-units="px"
+     inkscape:current-layer="text4136"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1391"
+     inkscape:window-x="1"
+     inkscape:window-y="1"
+     inkscape:window-maximized="0"
+     inkscape:snap-text-baseline="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="scale(0.85305403,1.1722587)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.50328064px;line-height:125%;font-family:AppleMyungjo;-inkscape-font-specification:'AppleMyungjo, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4136">
+      <g
+         transform="matrix(1.1722587,0,0,0.85305402,-63.613924,-1.6264731)"
+         style="font-style:normal;font-weight:normal;font-size:133.94351196px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.92499995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="text4163">
+        <path
+           d="m 323.41654,299.1154 0,-4.96571 41.16313,0 0,4.96571 -7.44857,0 q -4.31233,0 -5.35774,1.56812 -1.04541,1.43744 -1.04541,6.53383 l 0,29.79426 44.16869,0 0,-29.79426 q 0,-5.22706 -1.04541,-6.66451 -1.04542,-1.43744 -5.6191,-1.43744 l -6.92586,0 0,-4.96571 41.03245,0 0,4.96571 -7.57924,0 q -4.05097,0 -5.09639,1.96015 -1.04541,1.82947 -1.04541,6.92586 l 0,69.51995 q 0,4.57368 0.52271,5.61909 1.30676,2.61354 6.40315,2.61354 l 6.79518,0 0,4.96571 -41.03245,0 0,-4.96571 6.92586,0 q 3.65895,0 5.09639,-1.30677 1.56812,-1.43744 1.56812,-7.31789 l 0,-33.71456 -44.16869,0 0,34.10659 q 0,3.9203 0.52271,5.35774 1.04541,2.87489 4.70435,2.87489 l 8.62466,0 0,4.96571 -41.16313,0 0,-4.96571 7.8406,0 q 2.87488,0 4.18165,-1.56812 1.43744,-1.56812 1.43744,-7.05654 l 0,-69.91198 q 0,-5.09639 -1.04541,-6.53383 -1.04542,-1.56812 -5.48842,-1.56812 l -6.92586,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.94351196px;line-height:125%;font-family:AppleMyungjo;-inkscape-font-specification:'AppleMyungjo, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-width:2.92499995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4168"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>
